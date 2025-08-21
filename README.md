@@ -1,9 +1,17 @@
+<h1 align="left">Hi 👋, I'm Tharanish J</h1>
+<h3 align="left">AI & ML Enthusiast | Cloud & DevOpes Enthusiast | Full Stack Developer | </h3>
+
+---
+
 # 💫 About Me:
 <br><br>👋 Hi there! I'm a passionate developer with a keen interest in AI/ML, data science, and web development. I enjoy solving challenging problems, building innovative projects, and constantly learning new technologies.<br><br>🌱 I’m currently deepening my skills in Python, React, Node.js and exploring the fascinating world of Web3 and blockchain technology, particularly on the Solana blockchain. My recent projects include developing AI models for environmental data and working on dynamic web applications.<br><br>💡 I'm participating in the #CrackYourInternship challenge, where I solve daily coding problems to sharpen my problem-solving skills. You can check out my progress and some of the problems I've tackled on my GitHub repositories.<br><br>🎯 I believe in the power of open-source and love collaborating with others on interesting projects. I'm always open to learning from the community and contributing to it.<br><br>🔗 Let's connect! Feel free to check out my repositories, and don't hesitate to reach out if you have any questions or ideas for collaboration.
 
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/tharanish-j/)
+
+---
 
 # 💻 Tech Stack:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A192F?style=for-the-badge&logo=machine-learning&logoColor=white)
@@ -26,3 +34,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
